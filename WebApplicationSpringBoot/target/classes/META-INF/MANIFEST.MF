@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Kaustubh
+Build-Jdk: 11.0.2
+Implementation-Title: WebApplicationSpringBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.jackrutorial
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/WebApplicationSpringBoot
+Created-By: Maven Integration for Eclipse
+
